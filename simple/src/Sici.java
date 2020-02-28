@@ -1,4 +1,4 @@
-import java.util .*;
+import java.util.logging.*;
 class Sici
 {
 	private static Scanner sc;
